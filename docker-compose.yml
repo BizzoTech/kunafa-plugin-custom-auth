@@ -2,7 +2,7 @@ version: '2.2'
 
 services:
   custom-auth-app:
-    build: ./kunafa-plugin-custom-auth/app
+    image: bizzotech/kunafa-custom-auth:v0.0.1
     depends_on:
       - auth-db
       - public-db
