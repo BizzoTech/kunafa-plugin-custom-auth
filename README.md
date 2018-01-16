@@ -1,1 +1,1 @@
-# kunafa-plugin-facebook-auth
+# kunafa-plugin-custom-auth
