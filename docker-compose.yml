@@ -1,0 +1,8 @@
+version: '2.2'
+
+services:
+  custom-auth-app:
+    build: ./kunafa-plugin-custom-auth/app
+    depends_on:
+      - auth-db
+      - public-db

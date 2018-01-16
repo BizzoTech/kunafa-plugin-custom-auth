@@ -1,0 +1,8 @@
+{
+  "name": "kunafa-plugin-custom-auth",
+  "version": "v0.0.1",
+  "main": "index.js",
+  "author": "Emad Shaaban <emad.shaaban92@gmail.com>",
+  "repository": "git@github.com:BizzoTech/kunafa-plugin-custom-auth.git", 
+  "license": "MIT"
+}
